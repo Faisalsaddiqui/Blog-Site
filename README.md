@@ -12,7 +12,7 @@ This project demonstrates how to integrate a WordPress backend with a React fron
 - [Technical Details](#technical-details)
 - [Contributing](#contributing)
 - [License](#license)
-- 
+
 ## Project Overview
 
 This project enables seamless data interaction between a WordPress backend and a React frontend. Previously, GraphQL and Apollo Client were used for data fetching; however, this version demonstrates a shift to the WordPress REST API with Axios for efficient RESTful communication.
