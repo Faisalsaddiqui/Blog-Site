@@ -25,7 +25,7 @@ This project enables seamless data interaction between a WordPress backend and a
 ### Key Files and Code
 - **WordPress Backend**: Uses standard WordPress REST API endpoints (e.g., `/wp-json/wp/v2/posts`).
 - **React Frontend**: Components make API requests using Axios, handle the response, and display data (e.g., post titles, authors, and content).
-- 
+  
 ## Features
 
 - **Dynamic Content Fetching**: Fetches WordPress posts and categories in real-time.
