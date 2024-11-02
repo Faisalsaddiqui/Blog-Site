@@ -31,7 +31,7 @@ This project enables seamless data interaction between a WordPress backend and a
 - **Dynamic Content Fetching**: Fetches WordPress posts and categories in real-time.
 - **Authentication with Nonces**: Uses WordPress nonces for secure API requests.
 - **Component-Based Architecture**: Organized React components for modular and maintainable code.
-- 
+  
 ## Prerequisites
 
 To run this project, you need to have:
