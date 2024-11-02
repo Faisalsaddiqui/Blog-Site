@@ -62,6 +62,7 @@ Start the WordPress Local Server: Make sure your WordPress site is running local
 Configure Environment Variables: In your React project, set up a .env file with the WordPress API base URL, like so:
 REACT_APP_API_BASE_URL=http://localhost/my-site/wp-json
 REACT_APP_API_BASE_URL=http://localhost/my-site/wp-json
+
 ###3. Run the React Application:
 npm start
 Your React app should now be running on http://localhost:3000 (or a similar port).
