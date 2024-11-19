@@ -70,7 +70,7 @@ npm start
 ```
 Your React app should now be running on http://localhost:3000 (or a similar port).
 
-**Fetch Data from WordPress:**
+### Fetch Data from WordPress:
 
 The application uses Axios in components like PostPage.js to request data from the REST API endpoint (e.g., http://localhost/my-site/wp-json/wp/v2/posts).
 Nonces are added to headers for authenticated requests.
