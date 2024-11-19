@@ -65,7 +65,9 @@ REACT_APP_API_BASE_URL=http://localhost/my-site/wp-json
 REACT_APP_API_BASE_URL=http://localhost/my-site/wp-json
 
 ### Step 3: Run the React Application:
+```
 npm start
+```
 Your React app should now be running on http://localhost:3000 (or a similar port).
 Fetch Data from WordPress:
 
