@@ -87,7 +87,5 @@ This project uses the following technologies:
 ### Troubleshooting CORS Errors If you encounter a CORS error:
 
 Make sure your WordPress site allows cross-origin requests by adding the necessary headers. Plugins like WP Add Custom Headers can help with this.
-401 Unauthorized Errors
-If you receive a 401 Unauthorized error:
 
-Verify that your requests include the WordPress nonce for authentication, especially for endpoints that require user permissions.
+**401 Unauthorized Errors If you receive a 401 Unauthorized error:** Verify that your requests include the WordPress nonce for authentication, especially for endpoints that require user permissions.
