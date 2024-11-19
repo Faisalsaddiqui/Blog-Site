@@ -48,8 +48,8 @@ To run this project, you need to have:
 3. If needed, install a CORS-enabling plugin like **WP Add Custom Headers** to manage cross-origin access.
 
 ### Step 2: Set up the React Frontend
-1. Clone this repository:
-   ```bash
+Clone this repository:
+   ```
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
    
