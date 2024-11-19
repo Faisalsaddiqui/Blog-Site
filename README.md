@@ -57,7 +57,7 @@ To run this project, you need to have:
 ```
 npm install
 ```
-Usage
+### Usage
 **Start the WordPress Local Server:** Make sure your WordPress site is running locally at a URL like http://localhost/my-site.
 
 **Configure Environment Variables:** In your React project, set up a .env file with the WordPress API base URL, like so:
