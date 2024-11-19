@@ -52,7 +52,7 @@ Clone this repository
    ```
    git clone https://github.com/yourusername/your-repo-name.git
 ```
-Navigate to the project directory:
+Navigate to the project directory
 ```
    cd your-repo-name
 ```
