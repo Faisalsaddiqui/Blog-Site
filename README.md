@@ -84,9 +84,7 @@ This project uses the following technologies:
 
 **Authentication with WordPress Nonces:** When fetching data requiring authentication, WordPress nonces are included in the header to validate the request.
 
-Troubleshooting
-CORS Errors
-If you encounter a CORS error:
+### Troubleshooting CORS Errors If you encounter a CORS error:
 
 Make sure your WordPress site allows cross-origin requests by adding the necessary headers. Plugins like WP Add Custom Headers can help with this.
 401 Unauthorized Errors
