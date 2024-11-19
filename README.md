@@ -77,13 +77,13 @@ Nonces are added to headers for authenticated requests.
 Technical Details
 This project uses the following technologies:
 
-**•JavaScript & React:** JavaScript powers the frontend, while React components handle UI rendering and state management.
+**• JavaScript & React:** JavaScript powers the frontend, while React components handle UI rendering and state management.
 
-**•Axios:** Used for making HTTP requests from the React frontend to the WordPress REST API.
+**• Axios:** Used for making HTTP requests from the React frontend to the WordPress REST API.
 
-**•WordPress REST API:** Provides endpoints for accessing posts, categories, authors, etc., in JSON format.
+**• WordPress REST API:** Provides endpoints for accessing posts, categories, authors, etc., in JSON format.
 
-**•Authentication with WordPress Nonces:** When fetching data requiring authentication, WordPress nonces are included in the header to validate the request.
+**• Authentication with WordPress Nonces:** When fetching data requiring authentication, WordPress nonces are included in the header to validate the request.
 
 ### Troubleshooting CORS Errors If you encounter a CORS error:
 
