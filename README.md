@@ -1,4 +1,4 @@
-# Blog-Site
+# Blog-Site 📝🌐✍️
 ## WordPress & React Integration Project
 
 This project demonstrates how to integrate a WordPress backend with a React frontend using the WordPress REST API. The project fetches and displays posts and other content from WordPress using REST API calls with Axios in React, instead of GraphQL, making it straightforward to manage WordPress content dynamically within a React application.
