@@ -78,6 +78,7 @@ Technical Details
 This project uses the following technologies:
 
 **JavaScript & React:** JavaScript powers the frontend, while React components handle UI rendering and state management.
+
 **Axios:** Used for making HTTP requests from the React frontend to the WordPress REST API.
 
 **WordPress REST API:** Provides endpoints for accessing posts, categories, authors, etc., in JSON format.
