@@ -81,6 +81,7 @@ This project uses the following technologies:
 **Axios:** Used for making HTTP requests from the React frontend to the WordPress REST API.
 
 **WordPress REST API:** Provides endpoints for accessing posts, categories, authors, etc., in JSON format.
+
 **Authentication with WordPress Nonces:** When fetching data requiring authentication, WordPress nonces are included in the header to validate the request.
 
 Troubleshooting
