@@ -54,8 +54,9 @@ To run this project, you need to have:
    cd your-repo-name
    
 ### Install dependencies
+```
 npm install
-
+```
 Usage
 Start the WordPress Local Server: Make sure your WordPress site is running locally at a URL like http://localhost/my-site.
 
